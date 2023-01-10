@@ -5,5 +5,17 @@
     max-width: 690px;
     width: 100%;
     margin: 0;
+    margin-left: 148px;
     padding-bottom: 92px;
+}
+@media screen and (max-width: 1024px) {
+    .intro {
+        margin-left: 48px;
+    }    
+}
+@media screen and (max-width: 768px) {
+    .intro {
+        margin-left: 24px;
+        max-width: 720px;
+    }    
 }
