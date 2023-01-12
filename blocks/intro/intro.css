@@ -19,3 +19,11 @@
         max-width: 720px;
     }    
 }
+@media screen and (max-width: 320px) {
+    .intro {
+        margin-left: 16px;
+        margin-right: 16px;
+        max-width: 288px;
+        padding-bottom: 64px;
+    }    
+}

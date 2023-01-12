@@ -20,3 +20,11 @@
         padding-top: 115px;
     }    
 }
+@media screen and (max-width: 320px) {
+    .cover__title {
+        max-width: 250px;
+        font-size: 32px;
+        padding-top: 33px;
+        padding-bottom: 16px;
+    }    
+}

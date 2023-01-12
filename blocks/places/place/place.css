@@ -21,3 +21,16 @@
         grid-gap: 48px 28px;
     }    
 }
+@media screen and (max-width: 320px) {
+    .place {
+        max-width: 320px;
+        grid-template-columns: repeat(1, minmax(320px, 1fr));
+        grid-gap: 32px 32px;
+        padding-bottom: 50px;
+    }    
+}
+@media screen and (max-width: 320px) {
+    .place.place:last-child {
+        padding-bottom: 66px;
+    }    
+}

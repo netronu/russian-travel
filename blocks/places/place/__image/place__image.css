@@ -18,3 +18,11 @@
         max-height: 340px;
     }    
 }
+@media screen and (max-width: 320px) {
+    .place__image {
+        max-width: 320px;
+        max-height: 320px;
+        grid-row: 3;
+        grid-column: 1;
+    }    
+}
