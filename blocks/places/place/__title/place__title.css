@@ -8,13 +8,13 @@
     max-height: 152px;
     margin: 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .place__title {
         font-size: 42px;
         max-width: 340px;
     }    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .place__title {
         font-size: 32px;
         max-width: 320px;

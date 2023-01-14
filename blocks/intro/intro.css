@@ -13,13 +13,13 @@
         margin-left: 48px;
     }    
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .intro {
         margin-left: 24px;
         max-width: 720px;
     }    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .intro {
         margin-left: 16px;
         margin-right: 16px;

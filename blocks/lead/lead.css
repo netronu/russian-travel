@@ -15,7 +15,13 @@
         width: 100%;
     }    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 900px) {
+    .lead {
+        max-width: 768px;
+        width: 100%;
+    }    
+}
+@media screen and (max-width: 500px) {
     .lead {
         max-width: 320px;
         width: 100%;

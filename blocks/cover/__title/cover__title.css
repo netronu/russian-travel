@@ -15,12 +15,12 @@
         padding-top: 195px;
     }    
 }
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 900px) {
     .cover__title {
         padding-top: 115px;
     }    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .cover__title {
         max-width: 250px;
         font-size: 32px;

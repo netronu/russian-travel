@@ -16,14 +16,14 @@
         padding-bottom: 24px;
     }    
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .footer {
         max-width: 720px;
         padding-top: 88px;
         padding-bottom: 24px;
     }    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .footer {
         max-width: 186px;
         padding-top: 64px;

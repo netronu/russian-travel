@@ -10,12 +10,12 @@
     padding-top: 40px;
     text-align: inherit;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
     .intro__text {
         max-width: 720px;
     }    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .intro__text {
         max-width: 288px;
     }    
