@@ -5,13 +5,14 @@
     line-height: 1.2;
     color: #FFFFFF;
     margin: 0;
-    max-width: 75px;
     text-decoration: none;
 }
-@media screen and (max-width: 500px) {
+.header__lang-link:hover {
+    opacity: .8;
+}
+@media screen and (max-width: 767px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 1.1;
-        max-width: 62px;
     }    
 }
