@@ -1,7 +1,7 @@
 .place {
     max-width: 984px;
     margin: 0;
-    padding-bottom: 80px;
+    padding-bottom: 92px;
     display: grid;
     grid-template-columns: 460px auto;
     grid-gap: 48px 40px;
@@ -19,7 +19,7 @@
         max-width: 720px;
         grid-template-columns: 340px auto;
         grid-gap: 48px 28px;
-        padding-bottom: 73px;
+        padding-bottom: 65px;
     }    
 }
 @media screen and (max-width: 767px) {
